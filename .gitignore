@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Track global config files (use ! to un-ignore)
+!.gitignore
+!CLAUDE.md
+!github.code-workspace
+!my-note-global.md
+
+# Track these folders and their contents
+!.claude/
+!.claude/**
+
+# .reference has its own git repo - excluded
+
+# Always ignore system files
+.DS_Store
+**/.DS_Store

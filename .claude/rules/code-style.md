@@ -1,0 +1,38 @@
+# Code Style
+
+## General
+- TypeScript for all new files
+- Functional over class-based
+- Functions < 30 lines
+- Descriptive variable names
+
+## Imports Order
+1. External libs
+2. Internal modules
+3. Types
+4. Styles
+
+## Comments
+- Only when WHY isn't obvious
+- No commented-out code
+- TODO format: `// TODO: description`
+
+## Functions
+```typescript
+// ✅ Good
+function getUserById(id: string): User {}
+
+// ❌ Bad
+function get(i) {}
+```
+
+## Error Handling
+- Always handle errors
+- Use try/catch for async
+- Log meaningful messages
+
+## Don't
+- ❌ Any type (use proper types)
+- ❌ Magic numbers (use constants)
+- ❌ Deep nesting (> 3 levels)
+- ❌ Long files (> 300 lines)
