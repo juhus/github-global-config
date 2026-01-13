@@ -18,6 +18,7 @@
 ## Rules
 - ❌ No new root folders without approval
 - ❌ No files in /src root (must be in subfolder)
+- ❌ Never look into `archives/` folders
 - ✅ Keep nesting max 3 levels
 - ✅ Group by feature, not file type
 
