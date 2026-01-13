@@ -1,1 +1,1 @@
-User going home, save current plan/key discussion in this session in root folder, then commit and push for the current project.
+User going home, save any plan/key discussion in this session in root folder, then commit and push for the current project.
