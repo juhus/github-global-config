@@ -10,7 +10,7 @@ Target (based on original size):
 Steps:
 1. Read the file, count lines
 2. Remove: verbose words, redundant phrases, excessive examples
-3. Use: tables, symbols (✅❌→), short phrases over sentences
+3. Use: lists with → (2 cols), tables (3+ cols), symbols (✅❌→), short phrases
 4. Keep ALL meaning — never cut essential context
 5. Show: before/after line count + target
 6. Wait for approval before saving
