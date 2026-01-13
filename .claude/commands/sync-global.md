@@ -14,5 +14,4 @@ Sync global config files in ~/Documents/GitHub/:
 Files being tracked (defined in .gitignore):
 - CLAUDE.md
 - github.code-workspace
-- my-note-global.md
 - .claude/ folder

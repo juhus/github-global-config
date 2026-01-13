@@ -1,4 +1,0 @@
-- update customer segmentation to use claude code llm generation instead of anthropic api 
-- generate report in pptx
-- generate quests for tangs
-- 
