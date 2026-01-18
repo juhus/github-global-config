@@ -1,1 +1,1 @@
-User going home, save any plan/key discussion in this session in root folder, then commit and push for the current project.
+User going home, save any plan/key discussion in this session in root folder, then commit and push for the current project. Save existing plan in project root/.claude/plan/plan_timestamp.md

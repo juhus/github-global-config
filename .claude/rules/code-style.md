@@ -36,3 +36,9 @@ function get(i) {}
 - ❌ Magic numbers (use constants)
 - ❌ Deep nesting (> 3 levels)
 - ❌ Long files (> 300 lines)
+
+## Agent → User Instructions
+When agent needs user to act:
+- ⚠️ **REQUIRED USER ACTION** → bold, visible header
+- Clear numbered steps
+- Don't bury in paragraphs
