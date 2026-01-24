@@ -27,6 +27,15 @@ Initialize project CLAUDE.md for: $ARGUMENTS
 - Patterns: [any unique patterns found]
 ```
 
-4. Keep under 30 lines
-5. Show draft, wait for approval before saving
-6. DO NOT duplicate rules from ~/Documents/GitHub/CLAUDE.md
+4. Create `.claude/dev_log.md`:
+```markdown
+# Dev Log
+<!-- Format: YYMMDD-HHMM | action | outcome (max 200 chars) -->
+<!-- Triggers: plan complete, session end, major decision, blocker -->
+
+YYMMDD-HHMM | init project | [project name] initialized
+```
+
+5. Keep CLAUDE.md under 30 lines
+6. Show draft, wait for approval before saving
+7. DO NOT duplicate rules from ~/Documents/GitHub/CLAUDE.md
