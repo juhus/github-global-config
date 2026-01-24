@@ -14,6 +14,7 @@ Max 200 chars per entry. Latest at TOP.
 - Session end (summarize key actions)
 - Major decision made
 - Blocker hit or resolved
+- Command gohome
 
 ## Don't Log
 - Routine file reads/exploration

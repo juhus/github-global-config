@@ -26,7 +26,7 @@ Initialize project CLAUDE.md for: $ARGUMENTS
 ```markdown
 # Dev Log
 <!-- Format: YYMMDD-HHMM | action | outcome (max 200 chars) -->
-<!-- Triggers: plan complete, session end, major decision, blocker -->
+<!-- Triggers: plan complete, session end, major decision, blocker, command gohome -->
 
 YYMMDD-HHMM | init project | [project name] initialized
 ```
