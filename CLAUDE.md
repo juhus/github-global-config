@@ -30,8 +30,11 @@
 | New features | ~/Documents/GitHub/.claude/rules/folder-structure.md |
 | Writing code | ~/Documents/GitHub/.claude/rules/code-style.md |
 | Git operations | ~/Documents/GitHub/.claude/rules/git-rules.md |
+| After completing work | ~/Documents/GitHub/.claude/rules/dev-log.md |
 
 ## Core Rules
+- Challenge my ideas. Use AskUserQuestion tool to clarify. Suggest alternatives.
+- Log to .claude/dev_log.md per dev-log rules
 - Plan first if 5+ files → wait for approval
 - State full path before creating any file
 - Don't touch /config or .env without approval
