@@ -16,11 +16,6 @@ Initialize project CLAUDE.md for: $ARGUMENTS
 ## Overview
 [One-line description inferred from README or package.json]
 
-## Key Commands
-```bash
-[Top 3-5 most useful commands]
-```
-
 ## Project-Specific Notes
 - Stack: [detected]
 - Env vars: [if any]
