@@ -4,6 +4,12 @@
 - Plans saved to: `project/.claude/plans/` (synced with GitHub)
 - NOT user-level `~/.claude/plans/` (not synced)
 
+## Important Distinction
+- **Claude's plan mode** (`~/.claude/plans/`) — working scratch during sessions, hardcoded by Claude Code
+- **Project plans** (`.claude/plans/`) — checkpoints saved by `/gohome` when pausing mid-work
+
+These are separate systems. Project plans are for resuming work later.
+
 ## Naming Convention
 `plan-three-word-title-YYMMDD-HHMM.md`
 Example: `plan-auth-system-refactor-260128-1430.md`
