@@ -10,6 +10,7 @@
 | Types | PascalCase.types | User.types.ts |
 | Python | snake_case | user_service.py |
 | Tests | [name].test.ts | auth.test.ts |
+| Plans | plan-name-YYMMDD-HHMM | plan-auth-refactor-260128-1430.md |
 
 ## Folders
 - Always kebab-case → `user-profile/`

@@ -5,13 +5,16 @@ Initialize project CLAUDE.md for: $ARGUMENTS
    - Main tech stack (Python, JS, etc.)
    - Key commands (package.json scripts, Makefile, etc.)
    - Required env vars (from .env.example or README)
+
 3. Create CLAUDE.md using this template:
 
 ```markdown
 # Project: [Detected or $ARGUMENTS]
 
-> ✅ **WORK HERE** — Add project notes here. Keep under 30 lines.
-> If adding detailed rules, create `.claude/rules/[topic].md` instead.
+> **WORK HERE** — Project context only. Keep under 30 lines.
+
+## On Session Start
+Run `/start` command to load context from dev_log and plans.
 
 ## Overview
 [One-line description inferred from README or package.json]
@@ -26,11 +29,11 @@ Initialize project CLAUDE.md for: $ARGUMENTS
 ```markdown
 # Dev Log
 <!-- Format: YYMMDD-HHMM | action | outcome (max 200 chars) -->
-<!-- Triggers: plan complete, session end, major decision, blocker, command gohome -->
-
 YYMMDD-HHMM | init project | [project name] initialized
 ```
 
-5. Keep CLAUDE.md under 30 lines
-6. Show draft, wait for approval before saving
-7. DO NOT duplicate rules from ~/Documents/GitHub/CLAUDE.md
+5. Create `.claude/plans/` folder (empty)
+
+6. Keep CLAUDE.md under 30 lines
+7. Show draft, wait for approval before saving
+8. DO NOT duplicate session logic — it's all in /start
