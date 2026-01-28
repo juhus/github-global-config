@@ -11,10 +11,7 @@ Initialize project CLAUDE.md for: $ARGUMENTS
 ```markdown
 # Project: [Detected or $ARGUMENTS]
 
-> **WORK HERE** — Project context only. Keep under 30 lines.
-
-## On Session Start
-Run `/start` command to load context from dev_log and plans.
+> **WORK HERE** — Project context only. Keep under 25 lines.
 
 ## Overview
 [One-line description inferred from README or package.json]

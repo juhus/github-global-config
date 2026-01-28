@@ -58,3 +58,7 @@
     CLAUDE.md            ← WORK HERE (project context only)
     .claude/rules/       ← Project-specific rules (if needed)
 ```
+
+---
+
+> 🚨 **AFTER READING THIS:** Run `/start` to load dev_log and plans.
