@@ -11,8 +11,8 @@
 These are separate systems. Project plans are for resuming work later.
 
 ## Naming Convention
-`plan-three-word-title-YYMMDD-HHMM.md`
-Example: `plan-auth-system-refactor-260128-1430.md`
+`plan-YYMMDD-HHMM-three-word-title.md`
+Example: `plan-260128-1430-auth-system-refactor.md`
 
 ## When Planning
 1. **Always check existing plans first** in `.claude/plans/`
