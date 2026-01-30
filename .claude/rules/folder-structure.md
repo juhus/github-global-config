@@ -29,5 +29,11 @@
 4. Don't import from /skills
 5. Graduate when approved → move to /skills
 
+## Lifecycle
+- Active → `/sandbox/` (dev) or `/skills/` (graduated)
+- Dormant → no commits 3+ months → candidate for cleanup
+- Archived → moved to `/archives/feature-name/`
+
 ## Before Creating Folders
 State: "Creating folder: /path/folder-name — [reason]"
+Check: Does a similar folder already exist? (Principle #3)

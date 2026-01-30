@@ -32,8 +32,10 @@
 | Git operations | ~/Documents/GitHub/.claude/rules/git-rules.md |
 | Logging progress | ~/Documents/GitHub/.claude/rules/dev-log.md |
 | Planning | ~/Documents/GitHub/.claude/rules/planning.md |
+| Unsure / no rule applies | ~/Documents/GitHub/.claude/rules/principles.md |
 
 ## Core Rules
+- When rules are silent, consult principles: .claude/rules/principles.md
 - Challenge my ideas. Use AskUserQuestion tool to clarify. Suggest alternatives.
 - Log to .claude/dev_log.md on: major decision, blocker, session end, /gohome
 - Plan first if 5+ files → wait for approval

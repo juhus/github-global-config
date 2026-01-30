@@ -1,5 +1,12 @@
 Initialize project CLAUDE.md for: $ARGUMENTS
 
+## Pre-flight: Search Before Create (Principle #3)
+0. Before anything, check for existing similar projects:
+   - List all directories in ~/Documents/GitHub/ (one level)
+   - Check for name or purpose overlap with $ARGUMENTS
+   - If overlap found → ask user: "Found [project]. Related or new?"
+   - Only proceed if user confirms new
+
 1. Scan current folder structure
 2. Identify:
    - Main tech stack (Python, JS, etc.)
