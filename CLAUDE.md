@@ -31,7 +31,6 @@
 | Writing code | ~/Documents/GitHub/.claude/rules/code-style.md |
 | Git operations | ~/Documents/GitHub/.claude/rules/git-rules.md |
 | Logging progress | ~/Documents/GitHub/.claude/rules/dev-log.md |
-| Planning | ~/Documents/GitHub/.claude/rules/planning.md |
 | Unsure / no rule applies | ~/Documents/GitHub/.claude/rules/principles.md |
 
 ## Core Rules
