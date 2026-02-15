@@ -15,7 +15,7 @@ Then:
 5. Check `.claude/plans/` for latest plan:
    - Location: `./.claude/plans/` (project-level, synced with GitHub)
    - NOT ~/.claude/plans/ (user-level, not synced)
-   - Naming: `plan-three-word-title-YYMMDD-HHMM.md`
+   - Naming: `plan-YYMMDD-HHMM-three-word-title.md`
    - If folder missing, create it
    - If plans exist, summarize the latest one
 
