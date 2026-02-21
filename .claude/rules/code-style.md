@@ -39,7 +39,7 @@ function get(i) {}
 
 ## Agent → User Instructions
 When agent needs user to act:
-- **REQUIRE USER ACTION** → bold, visible header
+- **⚠️REQUIRE USER ACTION** → bold, visible header
 - Clear numbered steps
 - Don't bury in paragraphs
 - Clear instructions where and what to do, spoon feed me anything I might need.
