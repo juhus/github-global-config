@@ -30,3 +30,9 @@ docs: update README setup steps
 - feature/name → new features
 - fix/name → bug fixes
 - Don't push to main directly
+
+## Global Workspace Git
+- `~/Documents/GitHub/` tracks global config only (`CLAUDE.md`, `.claude/`, `github.code-workspace`)
+- Project folders are excluded via `.gitignore` — each is its own separate repo
+- ❌ Never point this remote to a project repo
+- Always verify `git remote -v` before pushing here

@@ -1,5 +1,8 @@
 Sync global config files in ~/Documents/GitHub/:
 
+## ⚠️ Pre-flight
+Run `git remote -v` first. If remote is a project repo (not global config) → STOP and alert user.
+
 1. Navigate to ~/Documents/GitHub/
 2. Run `git status` to show what will be synced
 3. Show the user the files that will be committed
