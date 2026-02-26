@@ -22,9 +22,11 @@ docs: update README setup steps
 ```
 
 ## Before Committing
-1. Show what will be committed
-2. Wait for approval
-3. Use clear message
+1. Check `.claude/dev_log.md` — if session had notable work, add entry. Skip if nothing meaningful.
+2. Check if a plan was used this session — if unsaved, copy to `.claude/plans/`. Skip if no plan.
+3. Stage dev_log + plan alongside code changes (if updated)
+4. Show what will be committed
+5. Use clear message
 
 ## Branches
 - feature/name → new features
